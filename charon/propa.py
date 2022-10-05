@@ -403,6 +403,7 @@ def LoadFlux(ch, DMm, process="ann"):
         "nuenue": 0.0,
         "nutaunutau": 0.0,
         "numunumu": 0.0,
+        "nunu": 0.0,
         "gammagamma": 0.0,
     }
     
